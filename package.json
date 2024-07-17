@@ -1,14 +1,14 @@
 {
-  "name": "sql-template-tag",
+  "name": "@no-esm/sql-template-tag",
   "version": "5.2.1",
-  "description": "ES2015 tagged template string for preparing SQL statements, works with `pg`, `mysql`, `sqlite` and `oracledb`",
+  "description": "ESM-free SQL template string for preparing SQL statements, works with `pg`, `mysql`, `sqlite` and `oracledb`",
   "keywords": [
     "sql",
     "template",
     "string",
     "tag",
-    "es2015",
-    "es6",
+    "no-esm",
+    "commonjs",
     "pg",
     "postgres",
     "mysql",
