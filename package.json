@@ -16,13 +16,13 @@
     "oracledb",
     "oracle"
   ],
-  "homepage": "https://github.com/blakeembrey/sql-template-tag",
+  "homepage": "https://github.com/SkeLLLa/sql-template-tag",
   "bugs": {
-    "url": "https://github.com/blakeembrey/sql-template-tag/issues"
+    "url": "https://github.com/SkeLLLa/sql-template-tag/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/blakeembrey/sql-template-tag.git"
+    "url": "git://git@github.com:SkeLLLa/sql-template-tag.git"
   },
   "license": "MIT",
   "author": {
